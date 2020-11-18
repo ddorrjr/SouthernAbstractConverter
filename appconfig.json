@@ -1,0 +1,18 @@
+{
+  "CobLocs": [
+    "in  in COB",
+    "in in COB",
+    "in  COB",
+    "in COB",
+    "in CB",
+    "inCOB",
+    "inC",
+    " COB"
+  ],
+  "ExtraDateFormats": ["MMMM dd, yyyy", "MMMM dd,yyyy", "MMMMM dd, yyyy", "MMM. dd, yyyy","mm/dd/yyyy"],
+  "SpecialNonHeaderLines": ["NO REDEMPTION FOUND","No Redemption Found"],
+  "DateFixes": ["September::Sep.","Sept.::Sep.","Sept::Sep."],
+  "preprocessorChecks": [",\n::,",", \n::, ","\n(:: ("," in \n:: in ","  in \n:: in "," in  \n:: in "],
+  "TaxSaleLikeOptions": ["Patent","Tax Sale"],
+  "KnownValidEventTypes": ["Patent","Tax Sale","Redeemed","NO REDEMPTION FOUND REGISTERED.","Cancelled","Final Certificate"]
+}
